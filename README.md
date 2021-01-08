@@ -9,7 +9,7 @@
 - [ ] Book Catering
 - [ ] Order Chairs From Amazon
 - [ ] Order Cake Supplies
-- [ ] Plan Music Playlist and Speakers
+- [ ] Plan Playlist and Speakers
 - [ ] Plan Honeymoon Activities
 
 ---
