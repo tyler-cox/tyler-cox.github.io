@@ -26,8 +26,8 @@
 
 **Seating Chart**
 -   Family sits in a semi-circle around us
--   Leave space for the photographer
-![Seating Chart](./seating_chart.png)
+-   Leave space for the photographer\
+![Seating Chart](./images/seating_chart.png)
 
 ---
 
