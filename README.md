@@ -1,16 +1,18 @@
 **Pre-wedding Checklist**
-- [ ] Engagement Photos
-- [ ] Obtain Wedding Bands
-- [ ] Obtain Marriage License
-- [ ] Get legally Married
-- [ ] Obtain Wedding Dress
-- [ ] Reserve the location
-- [ ] Book Photographer
-- [ ] Book Catering
-- [ ] Order Chairs From Amazon
-- [ ] Order Cake Supplies
-- [ ] Plan Playlist and Speakers
-- [ ] Plan Honeymoon Activities
+|Done?|Task|Cost|
+|-|-|-|
+|X|Obtain Wedding Bands|425|
+|-|Engagement Photos|0|
+|-|Obtain Marriage License|0|
+|-|Get legally Married|0|
+|-|Obtain Wedding Dress|0|
+|-|Reserve the location|0|
+|-|Book Photographer|0|
+|-|Book Catering|0|
+|-|Order Chairs From Amazon|0|
+|-|Order Cake Supplies|0|
+|-|Plan Playlist and Speakers|0|
+|-|Plan Honeymoon Activities|0|
 
 ---
 
