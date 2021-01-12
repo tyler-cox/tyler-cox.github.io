@@ -13,6 +13,7 @@
 | -     | Order Cake Supplies        | 0    |
 | -     | Plan Playlist and Speakers | 0    |
 | -     | Plan Honeymoon Activities  | 0    |
+| -     | Introduce Parents          | 0    |
 
 ---
 
