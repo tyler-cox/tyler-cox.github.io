@@ -1,10 +1,10 @@
 **Pre-wedding Checklist**
 | Task                       | Status  | Cost | Paid |
 | -------------------------- | ------- | ---- | ---- |
-| Wedding Bands              | Done    | 425  | ✓    |
+| Wedding Bands              | Done    | 420  | ✓    |
 | Engagement Photos          | -       | 0    | -    |
 | Marriage License           | -       | 0    | -    |
-| Wedding Dress              | Ordered | 782  | ✓    |
+| Wedding Dress              | Ordered | 780  | ✓    |
 | Get Married                | -       | 0    | -    |
 | Book - location            | -       | 0    | -    |
 | Book - Photographer        | -       | 0    | -    |
