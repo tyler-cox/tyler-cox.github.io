@@ -1,18 +1,18 @@
 **Pre-wedding Checklist**
-| Done? | Task                       | Cost |
-| ----- | -------------------------- | ---- |
-| X     | Wedding Bands              | 425  |
-| -     | Engagement Photos          | 0    |
-| -     | Marriage License           | 0    |
-| -     | Wedding Dress              | 0    |
-| -     | Get Married                | 0    |
-| -     | Book - location            | 0    |
-| -     | Book - Photographer        | 0    |
-| -     | Book - Catering            | 0    |
-| -     | Order Chairs               | 0    |
-| -     | Order Cake Supplies        | 0    |
-| -     | Plan Playlist and Speakers | 0    |
-| -     | Plan Honeymoon Activities  | 0    |
+| Done? | Task                       | Cost | Paid |
+| ----- | -------------------------- | ---- | ---- |
+| ✓     | Wedding Bands              | 425  | ✓    |
+| -     | Engagement Photos          | 0    | -    |
+| -     | Marriage License           | 0    | -    |
+| -     | Wedding Dress              | 782  | ✓    |
+| -     | Get Married                | 0    | -    |
+| -     | Book - location            | 0    | -    |
+| -     | Book - Photographer        | 0    | -    |
+| -     | Book - Catering            | 0    | -    |
+| -     | Order Chairs               | 0    | -    |
+| -     | Order Cake Supplies        | 0    | -    |
+| -     | Plan Playlist and Speakers | 0    | -    |
+| -     | Plan Honeymoon Activities  | 0    | -    |
 
 ---
 
