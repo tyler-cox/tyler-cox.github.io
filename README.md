@@ -4,9 +4,9 @@
 | Wedding Bands              | Done    | 420  | ✓    |
 | Engagement Photos          | -       | 0    | -    |
 | Marriage License           | -       | 0    | -    |
-| Wedding Dress              | Ordered | 780  | ✓    |
+| Wedding Dress              | Ordered | 0    | ✓    |
 | Get Married                | -       | 0    | -    |
-| Book - location            | -       | 0    | -    |
+| Book - location            | -       | 0    | ✓    |
 | Book - Photographer        | -       | 0    | -    |
 | Book - Catering            | -       | 0    | -    |
 | Order Chairs               | -       | 0    | -    |
