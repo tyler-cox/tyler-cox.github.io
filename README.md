@@ -7,7 +7,7 @@
 | Wedding Dress              | Ordered | 0    | ✓    |
 | Get Married                | -       | 0    | -    |
 | Book - location            | -       | 0    | ✓    |
-| Book - Photographer        | -       | 0    | -    |
+| Book - Photographer        | Started | 0    | -    |
 | Book - Catering            | -       | 0    | -    |
 | Order Chairs               | -       | 0    | -    |
 | Order Cake Supplies        | -       | 0    | -    |
