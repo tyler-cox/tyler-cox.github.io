@@ -1,3 +1,59 @@
+<table style="text-align:center; width:100%; background-color:FFFFFF">
+<tbody>
+<tr>
+<td style="width: 11%"></td>
+<td style="width: 11%"></td>
+<td style="width: 11%"></td>
+<td style="width: 11%"></td>
+<td style="width: 11%"><a href="https://teams.microsoft.com/l/chat/0/0?users=tyler.cox@loxleyservices.com">Tyler Cox</a> <br> Manager</td>
+<td style="width: 11%"></td>
+<td style="width: 11%"></td>
+<td style="width: 11%"></td>
+<td style="width: 11%"></td>
+</tr>
+<tr>
+<td style="width: 11%"></td>
+<td style="width: 11%"><a href="https://teams.microsoft.com/l/chat/0/0?users=Tricia.Ng@loxleyservices.com">Tricia Ng</a> <br> Jira Lead</td>
+<td style="width: 11%"></td>
+<td style="width: 11%"></td>
+<td style="width: 11%"></td>
+<td style="width: 11%"></td>
+<td style="width: 11%"></td>
+<td style="width: 11%"><a href="https://teams.microsoft.com/l/chat/0/0?users=spencer.hughes@loxleyservices.com">Spencer Hughes</a> <br> Zoho Lead</td>
+<td style="width: 11%"></td>
+</tr>
+<tr>
+<td style="width: 11%"></td>
+<td style="width: 11%"></td>
+<td style="width: 11%"></td>
+<td style="width: 11%"></td>
+<td style="width: 11%"></td>
+<td style="width: 11%"></td>
+<td style="width: 11%"><a href="https://teams.microsoft.com/l/chat/0/0?users=jessica.rose@loxleyservices.com">Jessica Rose</a> <br> Zoho Analyst</td>
+<td style="width: 11%"></td>
+<td style="width: 11%"><a href="https://teams.microsoft.com/l/chat/0/0?users=john.edlin@loxleyservices.com">John Edlin</a> <br> Zoho Analyst</td>
+</tr>
+<tr>
+<td style="width: 11%"></td>
+<td style="width: 11%"></td>
+<td style="width: 11%"></td>
+<td style="width: 11%"></td>
+<td style="width: 11%"></td>
+<td style="width: 11%"></td>
+<td style="width: 11%"><a href="https://teams.microsoft.com/l/chat/0/0?users=nick.decillo@loxleyservices.com">Nick De Cillo</a> <br> Zoho Analyst</td>
+<td style="width: 11%"></td>
+<td style="width: 11%"><a href="https://teams.microsoft.com/l/chat/0/0?users=louie.alvarez@loxleyservices.com">Louie Alvarez</a> <br> DaVinci Engineer</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
 **Pre-wedding Checklist**
 | Task                       | Status  | Cost | Paid |
 | -------------------------- | ------- | ---- | ---- |
