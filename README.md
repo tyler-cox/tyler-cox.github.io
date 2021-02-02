@@ -1,3 +1,14 @@
+
+| <div style="width:10vw"> | <div style="width:10vw"> | <div style="width:10vw"> | <div style="width:10vw"> | QA Department Structure | <div style="width:10vw"> | <div style="width:10vw"> | <div style="width:10vw"> | <div style="width:10vw"> |
+| :-----------------------: | :-----------------------: | :-----------------------: | :-----------------------: | :---------------------: | :-----------------------: | :-----------------------: | :-----------------------: | :-----------------------: |
+|                           |                           |                           |                           | Tyler Cox - QA Manager  |                           |                           |                           |                           |
+|                           |    Tricia Ng, Jir Lead    |                           |                           |            ⟷            |                           | Spencer Hughes, Zoho Lead |                           |                           |
+|                           |                           |                           |                           |                         |   Jessica Rose, Analyst   |             ↓             |    John Edlin, Analyst    |                           |
+|                           |                           |                           |                           |                         |  Nick De Cillo, Analyst   |             ⤓             |  Louie Alvarez, Engineer  |                           |
+
+
+
+
 **Pre-wedding Checklist**
 | Task                       | Status  | Cost | Paid |
 | -------------------------- | ------- | ---- | ---- |
