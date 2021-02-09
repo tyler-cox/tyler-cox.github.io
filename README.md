@@ -83,3 +83,4 @@ Men will need to wear [this] while women wear [that]. \
 -   [Elvis Presley - Can't Help Falling in Love](https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC)
 -   [Rod Stewart - Have I Told You Lately](https://open.spotify.com/track/6mIY6O7uNGgVqOoX70UAYh)
 -   [Jack Johnson - Better Together](https://open.spotify.com/track/0x1AxbzEDQyX6feQW99lF0)
+-   [Bryan Adams - I'll Always Be Right There](https://open.spotify.com/track/583f5m5Y74xBEd6kPAv7Q8)
