@@ -2,12 +2,12 @@
 | Task                       | Status  | Cost | Paid |
 | -------------------------- | ------- | ---- | ---- |
 | Wedding Bands              | Done    | 420  | ✓    |
+| Wedding Dress              | Ordered | 0    | ✓    |
+| Book - Photographer        | Started | 0    | -    |
+| Book - location            | Started | 0    | ✓    |
 | Engagement Photos          | -       | 0    | -    |
 | Marriage License           | -       | 0    | -    |
-| Wedding Dress              | Ordered | 0    | ✓    |
 | Get Married                | -       | 0    | -    |
-| Book - location            | -       | 0    | ✓    |
-| Book - Photographer        | Started | 0    | -    |
 | Book - Catering            | -       | 0    | -    |
 | Order Chairs               | -       | 0    | -    |
 | Order Cake Supplies        | -       | 0    | -    |
@@ -16,7 +16,7 @@
 
 ---
 
-**Clothing**
+**Attire**
 -   Bride and Groom:
     -   Groom:  Buttoned Up Black Suit and Tie
     -   Bride:  White Sleeved Wedding Dress
