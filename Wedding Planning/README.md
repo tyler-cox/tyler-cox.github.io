@@ -1,53 +1,34 @@
 **Pre-wedding Checklist**
-| Task                       | Status  | Cost | Paid |
-| -------------------------- | ------- | ---- | ---- |
-| Wedding Bands              | Done    | 420  | ✓    |
-| Wedding Dress              | Ordered | 0    | ✓    |
-| Book - Photographer        | Started | 0    | -    |
-| Book - location            | Started | 0    | ✓    |
-| Engagement Photos          | -       | 0    | -    |
-| Marriage License           | -       | 0    | -    |
-| Get Married                | -       | 0    | -    |
-| Book - Catering            | -       | 0    | -    |
-| Order Chairs               | -       | 0    | -    |
-| Order Cake Supplies        | -       | 0    | -    |
-| Plan Playlist and Speakers | -       | 0    | -    |
-| Plan Honeymoon Activities  | -       | 0    | -    |
+| Status | Task                                              | Cost  |
+| :----: | ------------------------------------------------- | :---: |
+|   ✔    | Wedding Bands                                     |  420  |
+|   ✔    | Wedding Dress                                     |   0   |
+|        | Book - [Gallery J](http://www.galleryjvenue.com/) |   0   |
+|        | Book - Fuel BBQ                                   |   0   |
+|        | Engagement Photos                                 |   0   |
+|        | Plan Playlist and Speakers                        |   0   |
+|        | Plan Honeymoon Activities                         |   0   |
 
 ---
 
 **Venue**: Where and When will it be?
-|              Chosen               | Options                          | Date Range |
-| :-------------------------------: | -------------------------------- | ---------- |
-| <input type="checkbox" unchecked> | Asheville, North Carolina, Cabin |            |
-| <input type="checkbox" unchecked> | Florida                          |            |
+| Status | Location        | Company                                    |
+| :----: | --------------- | ------------------------------------------ |
+|   ✔    | Winter Park, FL | [Gallery J](http://www.galleryjvenue.com/) |
 
-The wedding will be held in [location] at a [place] on this [date]. \
-We will stay here from [date] to [date].
-
----
-
-**Decorations**: What will we need and how should it look?
-|              Chosen               | Options      | Style |
-| :-------------------------------: | ------------ | ----- |
-| <input type="checkbox" unchecked> | Tables       |       |
-| <input type="checkbox" unchecked> | Tablecloth   |       |
-| <input type="checkbox" unchecked> | Centerpiece  |       |
-| <input type="checkbox" unchecked> | Chairs       |       |
-| <input type="checkbox" unchecked> | Wedding Arch |       |
-
-The ceremony will need [this],[that] and [theother]. \
-[this] will be [color] and [that] will be [color]. \
-[theother] will be [place] with [this] and [that] surrounding it.
+-   Tour the venue
+-   Ask about bridal suite
+-   Decorations
+-   Book a date
 
 ---
 
 **Attire**: What will our family wear?
-|              Chosen               | Mens               | Womens        |
-| :-------------------------------: | ------------------ | ------------- |
-| <input type="checkbox" unchecked> | Church Attire      | Church Attire |
-| <input type="checkbox" unchecked> | Suit, Tie optional |               |
-| <input type="checkbox" unchecked> | Suit and Tie       |               |
+| Status | Mens               | Womens        |
+| :----: | ------------------ | ------------- |
+|        | Church Attire      | Church Attire |
+|        | Suit, Tie optional |               |
+|        | Suit and Tie       |               |
 
 All guests should be dressed [style]. \
 Men will need to wear [this] while women wear [that]. \
