@@ -16,16 +16,16 @@
 ---
 
 **Livingroom**
-| Series |                       Type                        |                                                    Link                                                    |
-| :----: | :-----------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
-| Hemnes |            TV unit, dark gray stained             |            [TV Stand](https://www.ikea.com/us/en/p/hemnes-tv-unit-dark-gray-stained-50381747/)             |
-| KIVIK  | Sectional, 4-seat, with chaise/Skiftebo dark gray | [Sectional](https://www.ikea.com/us/en/p/kivik-sectional-4-seat-with-chaise-skiftebo-dark-gray-s59305565/) |
-| KIVIK  |     Ottoman with storage, Skiftebo dark gray      |      [Ottoman](https://www.ikea.com/us/en/p/kivik-ottoman-with-storage-skiftebo-dark-gray-s79305526/)      |
-| Koarp  |       Armchair, Gunnared medium gray/black        |      [Ottoman](https://www.ikea.com/us/en/p/kivik-ottoman-with-storage-skiftebo-dark-gray-s79305526/)      |
+|                                                     Product                                                      |                    Description                    |
+| :--------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------: |
+|            [Hemnes TV Stand](https://www.ikea.com/us/en/p/hemnes-tv-unit-dark-gray-stained-50381747/)            |            TV unit, dark gray stained             |
+| [Kivik Sectional](https://www.ikea.com/us/en/p/kivik-sectional-4-seat-with-chaise-skiftebo-dark-gray-s59305565/) | Sectional, 4-seat, with chaise/Skiftebo dark gray |
+|      [Kivik Ottoman](https://www.ikea.com/us/en/p/kivik-ottoman-with-storage-skiftebo-dark-gray-s79305526/)      |     Ottoman with storage, Skiftebo dark gray      |
+|     [Koarp Armchair](https://www.ikea.com/us/en/p/kivik-ottoman-with-storage-skiftebo-dark-gray-s79305526/)      |       Armchair, Gunnared medium gray/black        |
 
 ---
 **Office**
-|                                                   Link                                                   |                 Type                 |
+|                                                 Product                                                  |             Description              |
 | :------------------------------------------------------------------------------------------------------: | :----------------------------------: |
 | [Bekant Office Desk](https://www.ikea.com/us/en/p/bekant-desk-black-stained-ash-veneer-black-s69282592/) | Desk, black stained ash veneer/black |
 
