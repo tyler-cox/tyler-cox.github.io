@@ -23,13 +23,6 @@
 
 ---
 
-**Decorations**: What will we need and how should it look?
-|              Chosen               | Options | Style |
-| :-------------------------------: | ------- | ----- |
-| <input type="checkbox" unchecked> | Tables  |       |
-
----
-
 **Attire**: What will our family wear?
 |              Chosen               | Mens               | Womens        |
 | :-------------------------------: | ------------------ | ------------- |
