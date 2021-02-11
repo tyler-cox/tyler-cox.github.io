@@ -13,6 +13,7 @@
 | Ordered |   [Hemnes Bed Frame](https://www.ikea.com/us/en/p/hemnes-bed-frame-dark-gray-stained-s99240647/)   | Bed frame, dark gray stained, King  |
 | Ordered | [Hemnes Dresser](https://www.ikea.com/us/en/p/hemnes-8-drawer-dresser-dark-gray-stained-60381737/) | 8-drawer dresser, dark gray stained |
 | Ordered |   [Hemnes Chest](https://www.ikea.com/us/en/p/hemnes-3-drawer-chest-dark-gray-stained-90483471/)   |  3-drawer chest, dark gray stained  |
+|         |                    [Purple Platform Bed Frame](https://purple.com/platform-bed)                    |  Simple. Strong. Storage-Friendly.  |
 
 ---
 
