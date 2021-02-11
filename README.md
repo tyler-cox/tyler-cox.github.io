@@ -19,8 +19,8 @@
 
 -   Tour the venue
 -   Ask about bridal suite
--   book a date
--   decorations
+-   Decorations
+-   Book a date
 
 ---
 
