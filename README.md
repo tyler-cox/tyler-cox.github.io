@@ -16,7 +16,7 @@
 **Venue**: Where and When will it be?
 |             Chosen              | Where           | Date Range                                 |
 | :-----------------------------: | --------------- | ------------------------------------------ |
-| <input type="checkbox" checked> | Winter Park, FL | [Gallery J](http://www.galleryjvenue.com/) |
+|✔| Winter Park, FL | [Gallery J](http://www.galleryjvenue.com/) |
 
 -   Tour the venue
 -   Ask about bridal suite
