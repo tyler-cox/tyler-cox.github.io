@@ -24,11 +24,11 @@
 ---
 
 **Attire**: What will our family wear?
-|              Chosen               | Mens               | Womens        |
+|              Status               | Mens               | Womens        |
 | :-------------------------------: | ------------------ | ------------- |
-| <input type="checkbox" unchecked> | Church Attire      | Church Attire |
-| <input type="checkbox" unchecked> | Suit, Tie optional |               |
-| <input type="checkbox" unchecked> | Suit and Tie       |               |
+|  | Church Attire      | Church Attire |
+|  | Suit, Tie optional |               |
+|  | Suit and Tie       |               |
 
 All guests should be dressed [style]. \
 Men will need to wear [this] while women wear [that]. \
