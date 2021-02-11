@@ -1,22 +1,21 @@
 **Pre-wedding Checklist**
-| Task                       | Status      | Cost | Paid |
-| -------------------------- | ----------- | ---- | ---- |
-| Wedding Bands              | Done        | 420  | ✓    |
-| Wedding Dress              | Ordered     | 0    | ✓    |
-| Book - Photographer        | Included    | 0    | ✓    |
-| Book - location            | Researching | 0    | -    |
-| Engagement Photos          | -           | 0    | -    |
-| Book - Catering            | -           | 0    | -    |
-| Order Cake Supplies        | -           | 0    | -    |
-| Plan Playlist and Speakers | -           | 0    | -    |
-| Plan Honeymoon Activities  | -           | 0    | -    |
+| Status | Task                       | Cost |
+| ------ | -------------------------- | ---- |
+| ✔      | Wedding Bands              | 420  |
+| ✔      | Wedding Dress              | 0    |
+|        | Book - location            | 0    |
+|        | Engagement Photos          | 0    |
+|        | Book - Catering            | 0    |
+|        | Order Cake Supplies        | 0    |
+|        | Plan Playlist and Speakers | 0    |
+|        | Plan Honeymoon Activities  | 0    |
 
 ---
 
 **Venue**: Where and When will it be?
-|             Chosen              | Where           | Date Range                                 |
-| :-----------------------------: | --------------- | ------------------------------------------ |
-|✔| Winter Park, FL | [Gallery J](http://www.galleryjvenue.com/) |
+| Chosen | Where           | Date Range                                 |
+| :----: | --------------- | ------------------------------------------ |
+|   ✔    | Winter Park, FL | [Gallery J](http://www.galleryjvenue.com/) |
 
 -   Tour the venue
 -   Ask about bridal suite
