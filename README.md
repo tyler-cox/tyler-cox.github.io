@@ -3,10 +3,9 @@
 | :----: | -------------------------- | :---: |
 |   ✔    | Wedding Bands              |  420  |
 |   ✔    | Wedding Dress              |   0   |
-|        | Book - location            |   0   |
-|        | Book - Catering            |   0   |
+|        | Book - Gallery J           |   0   |
+|        | Book - Fuel BBQ            |   0   |
 |        | Engagement Photos          |   0   |
-|        | Order Cake Supplies        |   0   |
 |        | Plan Playlist and Speakers |   0   |
 |        | Plan Honeymoon Activities  |   0   |
 
