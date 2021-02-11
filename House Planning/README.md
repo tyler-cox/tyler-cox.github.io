@@ -1,9 +1,9 @@
 **Master Bedroom**
-| Series |                Type                 |                                            Link                                             |
-| :----: | :---------------------------------: | :-----------------------------------------------------------------------------------------: |
-| Hemnes | Bed frame, dark gray stained, King  |   [Bed Frame](https://www.ikea.com/us/en/p/hemnes-bed-frame-dark-gray-stained-s99240647/)   |
-| Hemnes | 8-drawer dresser, dark gray stained | [Dresser](https://www.ikea.com/us/en/p/hemnes-8-drawer-dresser-dark-gray-stained-60381737/) |
-| Hemnes |  3-drawer chest, dark gray stained  |   [Chest](https://www.ikea.com/us/en/p/hemnes-3-drawer-chest-dark-gray-stained-90483471/)   |
+|                                              Product                                               |             Description             |
+| :------------------------------------------------------------------------------------------------: | :---------------------------------: |
+|   [Hemnes Bed Frame](https://www.ikea.com/us/en/p/hemnes-bed-frame-dark-gray-stained-s99240647/)   | Bed frame, dark gray stained, King  |
+| [Hemnes Dresser](https://www.ikea.com/us/en/p/hemnes-8-drawer-dresser-dark-gray-stained-60381737/) | 8-drawer dresser, dark gray stained |
+|   [Hemnes Chest](https://www.ikea.com/us/en/p/hemnes-3-drawer-chest-dark-gray-stained-90483471/)   |  3-drawer chest, dark gray stained  |
 
 ---
 
