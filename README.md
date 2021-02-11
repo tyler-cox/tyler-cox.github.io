@@ -17,13 +17,14 @@
 ---
 
 **Venue**: Where and When will it be?
-|              Chosen               | Options                          | Date Range |
-| :-------------------------------: | -------------------------------- | ---------- |
-| <input type="checkbox" unchecked> | Asheville, North Carolina, Cabin |            |
-| <input type="checkbox" unchecked> | St.Augustine, Florida, Hotel     |            |
+|             Chosen              | Where            | Date Range |
+| :-----------------------------: | ---------------- | ---------- |
+| <input type="checkbox" checked> | Orlando, florida | Gallery J  |
 
-The wedding will be held in [location] at a [place] on this [date]. \
-We will stay here from [date] to [date].
+-   Tour the venue
+-   Ask about bridal suite
+-   book a date
+-   decorations
 
 ---
 
@@ -31,14 +32,6 @@ We will stay here from [date] to [date].
 |              Chosen               | Options      | Style |
 | :-------------------------------: | ------------ | ----- |
 | <input type="checkbox" unchecked> | Tables       |       |
-| <input type="checkbox" unchecked> | Tablecloth   |       |
-| <input type="checkbox" unchecked> | Centerpiece  |       |
-| <input type="checkbox" unchecked> | Chairs       |       |
-| <input type="checkbox" unchecked> | Wedding Arch |       |
-
-The ceremony will need [this],[that] and [theother]. \
-[this] will be [color] and [that] will be [color]. \
-[theother] will be [place] with [this] and [that] surrounding it.
 
 ---
 
