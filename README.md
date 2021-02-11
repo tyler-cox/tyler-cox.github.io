@@ -19,7 +19,7 @@
 **Venue**: Where and When will it be?
 |             Chosen              | Where            | Date Range |
 | :-----------------------------: | ---------------- | ---------- |
-| <input type="checkbox" checked> | Orlando, florida | Gallery J  |
+| <input type="checkbox" checked> | Orlando, florida | [Gallery J](http://www.galleryjvenue.com/)  |
 
 -   Tour the venue
 -   Ask about bridal suite
