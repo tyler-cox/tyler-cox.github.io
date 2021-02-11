@@ -25,9 +25,9 @@
 
 ---
 **Office**
-| Series |          Type           |                                     Link                                     |
-| :----: | :---------------------: | :--------------------------------------------------------------------------: |
-| Hemnes | Desk, dark gray stained | [Desk](https://www.ikea.com/us/en/p/hemnes-desk-dark-gray-stained-30381729/) |
+|                                                   Link                                                   |                 Type                 |
+| :------------------------------------------------------------------------------------------------------: | :----------------------------------: |
+| [Bekant Office Desk](https://www.ikea.com/us/en/p/bekant-desk-black-stained-ash-veneer-black-s69282592/) | Desk, black stained ash veneer/black |
 
 
 
