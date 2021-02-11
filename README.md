@@ -1,13 +1,13 @@
 **Pre-wedding Checklist**
-| Status | Task                       | Cost  |
-| :----: | -------------------------- | :---: |
-|   ✔    | Wedding Bands              |  420  |
-|   ✔    | Wedding Dress              |   0   |
-|        | Book - Gallery J           |   0   |
-|        | Book - Fuel BBQ            |   0   |
-|        | Engagement Photos          |   0   |
-|        | Plan Playlist and Speakers |   0   |
-|        | Plan Honeymoon Activities  |   0   |
+| Status | Task                                              | Cost  |
+| :----: | ------------------------------------------------- | :---: |
+|   ✔    | Wedding Bands                                     |  420  |
+|   ✔    | Wedding Dress                                     |   0   |
+|        | Book - [Gallery J](http://www.galleryjvenue.com/) |   0   |
+|        | Book - Fuel BBQ                                   |   0   |
+|        | Engagement Photos                                 |   0   |
+|        | Plan Playlist and Speakers                        |   0   |
+|        | Plan Honeymoon Activities                         |   0   |
 
 ---
 
@@ -24,11 +24,11 @@
 ---
 
 **Attire**: What will our family wear?
-|              Status               | Mens               | Womens        |
-| :-------------------------------: | ------------------ | ------------- |
-|  | Church Attire      | Church Attire |
-|  | Suit, Tie optional |               |
-|  | Suit and Tie       |               |
+| Status | Mens               | Womens        |
+| :----: | ------------------ | ------------- |
+|        | Church Attire      | Church Attire |
+|        | Suit, Tie optional |               |
+|        | Suit and Tie       |               |
 
 All guests should be dressed [style]. \
 Men will need to wear [this] while women wear [that]. \
