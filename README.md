@@ -6,8 +6,6 @@
 | Book - Photographer        | Included    | 0    | ✓    |
 | Book - location            | Researching | 0    | -    |
 | Engagement Photos          | -           | 0    | -    |
-| Marriage License           | -           | 0    | -    |
-| Get Married                | -           | 0    | -    |
 | Book - Catering            | -           | 0    | -    |
 | Order Cake Supplies        | -           | 0    | -    |
 | Plan Playlist and Speakers | -           | 0    | -    |
