@@ -1,3 +1,12 @@
+**Major Appliances**
+| Status |                                                                              Product                                                                               |                                      Description                                      |
+| :----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: |
+|        | [Amana Refrigerator](https://www.bestbuy.com/site/amana-24-5-cu-ft-side-by-side-refrigerator-with-water-and-ice-dispenser-stainless-steel/6191432.p?skuId=6191432) | 24.5 Cu. Ft. Side-by-Side Refrigerator with Water and Ice Dispenser - Stainless steel |
+|        |                   [Amana Washing Machine](https://www.bestbuy.com/site/amana-3-5-cu-ft-8-cycle-top-loading-washer-white/5369600.p?skuId=5369600)                   |                    3.5 Cu. Ft. 8-Cycle Top-Loading Washer - White                     |
+|        |                         [Amana Dryer](https://www.bestbuy.com/site/amana-6-5-cu-ft-11-cycle-electric-dryer-white/3073087.p?skuId=3073087)                          |                      6.5 Cu. Ft. 11-Cycle Electric Dryer - White                      |
+
+---
+
 **Master Bedroom**
 | Status  |                                              Product                                               |             Description             |
 | :-----: | :------------------------------------------------------------------------------------------------: | :---------------------------------: |
