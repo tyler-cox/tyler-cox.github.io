@@ -20,7 +20,7 @@
 |              Chosen               | Options                          | Date Range |
 | :-------------------------------: | -------------------------------- | ---------- |
 | <input type="checkbox" unchecked> | Asheville, North Carolina, Cabin |            |
-| <input type="checkbox" unchecked> | Florida                          |            |
+| <input type="checkbox" unchecked> | St.Augustine, Florida, Hotel     |            |
 
 The wedding will be held in [location] at a [place] on this [date]. \
 We will stay here from [date] to [date].
