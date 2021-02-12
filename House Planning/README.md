@@ -8,19 +8,19 @@
 ---
 
 **Master Bedroom**
-| Status  |                                              Product                                               |             Description             |
-| :-----: | :------------------------------------------------------------------------------------------------: | :---------------------------------: |
-| Ordered |   [Hemnes Bed Frame](https://www.ikea.com/us/en/p/hemnes-bed-frame-dark-gray-stained-s99240647/)   | Bed frame, dark gray stained, King  |
-| Ordered | [Hemnes Dresser](https://www.ikea.com/us/en/p/hemnes-8-drawer-dresser-dark-gray-stained-60381737/) | 8-drawer dresser, dark gray stained |
-| Ordered |   [Hemnes Chest](https://www.ikea.com/us/en/p/hemnes-3-drawer-chest-dark-gray-stained-90483471/)   |  3-drawer chest, dark gray stained  |
-|         |                    [Purple Platform Bed Frame](https://purple.com/platform-bed)                    |  Simple. Strong. Storage-Friendly.  |
+|     Status      |                                              Product                                               |             Description             |
+| :-------------: | :------------------------------------------------------------------------------------------------: | :---------------------------------: |
+| Delivery - 2/27 |   [Hemnes Bed Frame](https://www.ikea.com/us/en/p/hemnes-bed-frame-dark-gray-stained-s99240647/)   | Bed frame, dark gray stained, King  |
+| Delivery - 2/27 | [Hemnes Dresser](https://www.ikea.com/us/en/p/hemnes-8-drawer-dresser-dark-gray-stained-60381737/) | 8-drawer dresser, dark gray stained |
+| Delivery - 2/27 |   [Hemnes Chest](https://www.ikea.com/us/en/p/hemnes-3-drawer-chest-dark-gray-stained-90483471/)   |  3-drawer chest, dark gray stained  |
+|                 |                    [Purple Platform Bed Frame](https://purple.com/platform-bed)                    |  Simple. Strong. Storage-Friendly.  |
 
 ---
 
 **Office**
-| Status  |                                                 Product                                                  |             Description              |
-| :-----: | :------------------------------------------------------------------------------------------------------: | :----------------------------------: |
-| Ordered | [Bekant Office Desk](https://www.ikea.com/us/en/p/bekant-desk-black-stained-ash-veneer-black-s69282592/) | Desk, black stained ash veneer/black |
+|     Status      |                                                 Product                                                  |             Description              |
+| :-------------: | :------------------------------------------------------------------------------------------------------: | :----------------------------------: |
+| Delivery - 2/27 | [Bekant Office Desk](https://www.ikea.com/us/en/p/bekant-desk-black-stained-ash-veneer-black-s69282592/) | Desk, black stained ash veneer/black |
 
 ---
 
@@ -29,6 +29,7 @@
 | :----: | :------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------: |
 |        | [Volfgang Bar Stool](https://www.ikea.com/us/en/p/volfgang-bar-stool-with-backrest-chrome-plated-gunnared-medium-gray-90435885/) | Bar stool with backrest, chrome plated/Gunnared medium gray  |
 |        |                        [IKEA 365+ Kitchen Series](https://www.ikea.com/us/en/cat/ikea-365-series-07694/)                         | Cookware, Dinnerware, Flatware, Glassware, Coasters, Storage |
+|        |                              [Dinera Series](https://www.ikea.com/us/en/cat/ikea-365-series-07694/)                              |                       Dinnerware, Mug                        |
 
 ---
 
