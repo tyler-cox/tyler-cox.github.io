@@ -8,7 +8,7 @@
 
 [ASTRAL CHAIN](https://www.youtube.com/results?search_query=ASTRAL%20CHAIN)
 
-[BALANWONDERWORLD](https://www.youtube.com/results?search_query=BALANWONDERWORLD)
+[Balan Wonderworld](https://www.youtube.com/results?search_query=BALANWONDERWORLD)
 
 [BLAZBLUE CENTRALFICTION Special Edition](https://www.youtube.com/results?search_query=BLAZBLUE%20CENTRALFICTION%20Special%20Edition)
 
